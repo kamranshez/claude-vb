@@ -3,6 +3,7 @@
 Repository for the Packt Publishing book titled "Claude Visual Bible" by Mark J. Price
 
 - [Claude Visual Bible, First Edition (2026)](#claude-visual-bible-first-edition-2026)
+- [Changes since publishing](#changes-since-publishing)
 - [Free PDF/ePub of the book and how to contact the publisher Packt](#free-pdfepub-of-the-book-and-how-to-contact-the-publisher-packt)
 - [Author and his books](#author-and-his-books)
 - [Books and chapters](#books-and-chapters)
@@ -15,6 +16,9 @@ Repository for the Packt Publishing book titled "Claude Visual Bible" by Mark J.
 - [Bonus Books](#bonus-books)
 - [Interviews with me](#interviews-with-me)
 
+# Changes since publishing
+
+[Learn about changes that happened in the world of Claude after publishing this book in September 2026.](changes.md)
 
 # Free PDF/ePub of the book and how to contact the publisher Packt
 
@@ -90,10 +94,10 @@ My author page on Goodreads: https://www.goodreads.com/author/show/14224500.Mark
 
 ## Epilogue
 
-# Bonus Books
+# [Bonus Books](docs/bonus/README.md)
 - [Beyond Your First AI](docs/bonus/beyond/README.md)
 - [Profession-Specific Prompts](docs/bonus/professions/README.md)
-- [GPT OSS local models](docs/bonus/gpt-oss/README.md)
+- [Local AI Models](docs/bonus/local-models/README.md)
 
 # Interviews with me
 

@@ -1,3 +1,6 @@
+# Changes since publishing
+
+- [Changes since publishing](#changes-since-publishing)
 - [Chapter 1.4 Have Your First Useful Conversation by Typing, Talking, or Showing](#chapter-14-have-your-first-useful-conversation-by-typing-talking-or-showing)
   - [Select a model and effort level](#select-a-model-and-effort-level)
 - [Chapter 2.2 Choose the Right Mode for Each Task](#chapter-22-choose-the-right-mode-for-each-task)
@@ -25,9 +28,9 @@ Here's a table of Claude models and versions that were released from October 202
 
 In the print book, the mode selector uses **Home**, as shown in *Figure 2.2B*:
 
-![Old mode selector: Home / Code](docs/changes/figure2-2b-book.png)
+![Old mode selector: Home / Code](docs/assets/figure2-2b-book.png)
 
 The newer version of Claude uses **Chat and Cowork** instead:
 
-![New mode selector: Chat and Cowork / Code](docs/changes/figure2-2b-new.png)
+![New mode selector: Chat and Cowork / Code](docs/assets/figure2-2b-new.png)
 
