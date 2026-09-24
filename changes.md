@@ -21,6 +21,7 @@ Here's a table of Claude models and versions that were released from October 202
 | Jun 30, 2026 | Sonnet 5 | Sonnet | Became the new default model for Free and Pro plans; pitched as "the most agentic Sonnet," with performance closer to Opus-class at Sonnet pricing. |
 | Jul 24, 2026 | Opus 5 | Opus | Described as coming close to Fable 5's frontier intelligence at roughly half the price; became the default model on Claude Max. |
 | Sep 1, 2026 | Fable 5.1 & Mythos 5.1 | Mythos | Fable 5.1 is generally available; Mythos 5.1 is invite-only for vetted cybersecurity/life-sciences organizations. Headline pricing unchanged. |
+| Sep 22, 2026     | Opus 5.5               | Opus   | First model in the 5.5 family. Anthropic positions it at roughly Fable 5.1-level performance on most work at about 40% lower cost than Opus 5 (reported $4/$20 per million tokens), with a 1M-token context window. |
 
 # Chapter 2.2 Choose the Right Mode for Each Task
 
@@ -33,4 +34,8 @@ In the print book, the mode selector uses **Home**, as shown in *Figure 2.2B*:
 The newer version of Claude uses **Chat and Cowork** instead:
 
 ![New mode selector: Chat and Cowork / Code](docs/assets/figure2-2b-new.png)
+
+> **Warning!** Anthropic announced that it plans to merge Cowork and Chat merged on September 16, 2026. Anthropic says they are becoming one Claude, with Docs, Slides and Design built into conversations too (initially in beta). This change is rolling out to plans over late September and October 2026. Personally, I have not yet been updated, as of September 24, 2026.
+
+> The Projects feature was slightly redesigned on September 17, 2026 (currently in beta). You can now pick the model and effort level for the coordinator and worker threads.
 
